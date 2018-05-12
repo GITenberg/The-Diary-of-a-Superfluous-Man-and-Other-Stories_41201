@@ -1,0 +1,44 @@
+_repo: The-Diary-of-a-Superfluous-Man-and-Other-Stories_41201
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2012-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+tableOfContents: The diary of a superfluous man -- Three portraits -- Three meetings
+  -- Mumú -- The inn.
+title: The Diary of a Superfluous Man, and Other Stories
+url: http://www.gutenberg.org/ebooks/41201
